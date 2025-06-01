@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 portfolio-reference.txt
+test.txt
 
 # testing
 /coverage
